@@ -1,0 +1,516 @@
+.Group {
+  width: 100%;
+  height: 163px;
+  object-fit: contain;
+}
+.Group-11 {
+  width: 100%;
+  height: 98px;
+  object-fit: contain;
+}
+body{
+
+  background:white !important;
+}
+.colorTitle{
+
+  color:#B7B7B7 !important;
+  font-family: Lato;
+}
+#event_page_wrap {
+
+  background:white !important;
+}
+a.btn.btn-event-link.btn-lg.customCode {
+ background: white !important;
+ color:#B7B7B7 !important;
+ font-weight: 900;
+
+}
+#event_page_wrap #intro .event_venue {
+
+ color:#B7B7B7 !important;
+}
+.imagesData{
+
+  padding: 30px;
+ 
+}
+.content.event_details.eventDescription > p {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.63;
+  text-align: center;
+  color: #424242;
+}
+
+.ticketsSection{
+
+  background:#f7f7f7 !important; 
+}
+
+.section_head{
+
+
+  color: #424242 !important;
+  font-weight: 700 !important;
+  font-size:   30px !important;
+  font-family:BodoniSvtyTwoITCTT !important;
+}
+.registerButton{
+
+  background-color: #ff4e58;
+  border-color:#ff4e58;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+
+}
+.ticketbold{
+
+  color: black;
+  font-size: 16px;
+  font-family: Lato !important;
+}
+.ticketDescrip{
+
+  font-family: Lato !important;
+
+}
+a.btn.btn-event-link.btn-lg.customCode {
+  font-family: Lato;
+}
+
+.rrssb-buttons li.rrssb-facebook a {
+  background-color: white !important;
+}
+.rrssb-buttons li.rrssb-linkedin a {
+  background-color: white !important;
+}
+
+.rrssb-buttons li.rrssb-twitter a {
+  background-color: white !important;
+}
+.rrssb-buttons li.rrssb-googleplus a {
+  background-color: white !important;
+}
+.rrssb-buttons li.rrssb-whatsapp a {
+  background-color: white !important;
+}
+.rrssb-buttons li.rrssb-email a {
+  background-color: white !important;
+}
+
+.rrssb-buttons li a {
+
+  border: solid 1px #a08743 !important;
+
+}
+
+.rrssb-buttons li a .rrssb-text {
+
+  color: #a08743  !important;
+  font-family: Lato !important;
+  text-transform: capitalize !important;
+  font-size: 15px !important;
+
+}
+
+.rrssb-buttons li a .rrssb-icon svg path {
+  fill:  #a08743 !important;
+} 
+
+.rrssb-buttons li a .rrssb-icon svg polygon {
+  fill:  #a08743 !important;
+} 
+
+.organizerPalm{
+
+  font-family: BodoniSvtyTwoITCTT;
+  font-size: 20px;
+  text-align: center;
+  color: #424242;
+
+  }.organizerPalm1{
+
+    clear: both !important;
+    padding: 35px;
+
+    }.organizerDescription{
+
+
+      font-family: Lato;
+      font-size: 13px;
+      line-height: 1.92;
+      text-align: center;
+      color: #a2a2a2;
+
+    }
+    .btn.newButton{
+
+      padding: 10px 28px;
+      border: solid 1px #a08743;
+      background: white;
+      color: #a08743 !important;
+      font-family: Lato;
+      font-size: 16px;
+      text-align: center;
+      margin: 10px;
+      text-transform: capitalize !important;
+
+    }
+    .btn.newButton1{
+
+      padding: 10px 28px;
+      font-family: Lato;
+      font-size: 16px;
+      background-color: #ff4e58 !important;
+      color: white !important;
+      border: #ff4e58 !important;
+      text-align: center;
+      text-transform: capitalize !important;
+    }
+
+    .contactForm{
+
+      font-family: BodoniSvtyTwoITCTT;
+      font-size: 32px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      text-align: center;
+      color: #424242;
+
+    }
+    .contactForm1{
+
+      border-top: none;
+      background-color: #f5f5f5;
+      border-left: none;
+      border-right: none;
+      border-bottom: 2px solid #424242;
+      width: 100%;
+
+    }
+    .contactName{
+
+      border-top: none;
+      background-color: #f5f5f5;
+      border-left: none;
+      border-right: none;
+      border-bottom: 2px solid #424242;
+      width: 50%;
+
+    }
+
+    .btn.submitContact{
+
+     background-color: #ff4e58;
+     font-family: Lato;
+     font-size: 16px;
+     text-align: center;
+     color: #ffffff;
+     width: 100%;
+     border: #ff4e58;
+
+   }
+
+   .contactLabel{ 
+
+    font-family: JosefinSans;
+    font-size: 15px;
+    text-align: left;
+  }
+  footer#footer {
+    font-family: Lato;
+    font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: #a2a2a2;
+    background: white;
+    text-transform: uppercase;
+  }
+
+  .powerAttendiz{
+
+    font-family: Lato;
+    font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: #a2a2a2;
+    background: white;
+    text-transform: uppercase;
+  }
+
+  .adminLink, .adminLink:hover {
+
+    color: #a2a2a2 !important;
+  }
+  .event_venue {
+
+    text-align: initial;
+    font-family: BodoniSvtyTwoITCTT;
+    font-size: 20px !important;
+    letter-spacing: 4.1px;
+    color: #424242;
+  }
+
+  .submitCheckout{
+
+    font-family: Lato;
+    background-color: #ff4e58 !important;
+    color: white !important;
+    border: #ff4e58 !important;
+    text-transform: capitalize !important;
+
+  }
+
+  section#order_form {
+    background: #f7f7f7;
+  }
+  .orderform{
+
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #424242;
+  }
+  .orderInformation{
+   font-family: Lato;
+   font-size: 20px;
+   color: #424242;
+ }
+ .orderForm1{
+
+  border-top: none;
+  background-color: #f5f5f5;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #424242;
+  width: 100%;
+
+}
+.orderForm12{
+
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #424242;
+  width: 100%;
+
+}
+.ticket-pricing {
+    font-family: BodoniSvtyTwoITCTT;
+    font-size: 20px;
+    text-align: center;
+    color: #424242;
+}
+
+.btn.ticketholder{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.63;
+  text-align: left;
+  color: #424242 !important;
+  background: #f7f7f7;
+  border: none;
+}
+.totalholder{
+  font-family: Lato;
+  font-size: 20px;
+  text-align: left;
+  color: #424242;
+}
+.panel.listTicket{
+
+  border:none;
+
+}
+
+legend.legendata {
+  border-bottom: none;
+  width: inherit;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.63;
+  text-align: left;
+  color: #424242;
+  border: solid 1px #a08743;
+  padding: 7px;
+}
+
+.fieldset{
+
+  font-family: JosefinSans;
+  font-size: 15px;
+  text-align: left;
+  border: dotted 1px #979797;
+  margin-bottom: 20px;
+  padding: 20px;
+
+}
+
+
+.panel-heading.listheading{
+
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.63;
+  text-align: left;
+  color: #424242;
+  background: white;
+  border: dotted 1px #979797;
+
+
+
+}
+.ordercard{
+
+  background-color: #ff4e58;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  border: #ff4e58;
+}
+.orderSummary{
+
+  background-color: #f5f5f5;
+  font-family: Lato;
+  font-size: 20px;
+  text-align: center;
+  color: #424242;
+  padding: 0px !important;
+}
+.orderSummaryList{
+
+
+  background-color: #ffffff;
+  border: dotted 1px #979797;
+
+
+}
+
+h1.thankOrder{
+
+  font-family: BodoniSvtyTwoITCTT;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  letter-spacing: 2px !important;
+  text-align: center !important;
+  color: #424242 !important;
+}
+
+h2.thankOrder1{
+
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #b1b1b1;
+}
+.order_details.well {
+  border: 1px dotted #979797;
+}
+
+.formName{
+
+  font-family: Lato;
+  font-size: 15px;
+  text-align: left;
+  color: #000000;
+}
+.col-sm-4.col-xs-6 {
+  font-family: Lato;
+  font-size: 15px;
+  text-align: left;
+  color: #a2a2a2;
+}
+h3.thankOrder3{
+  font-family: BodoniSvtyTwoITCTT;
+  font-size: 20px;
+  text-align: left;
+  color: #424242;
+
+}
+
+tr.quantity th{
+
+  font-family: Lato !important;
+  font-size: 15px !important;
+  text-align: left !important;
+  color: #000000 !important; 
+  background-color:#f7f7f7 !important;
+
+}
+tr.quantity td{
+  font-family: Lato;
+  font-size: 15px;
+  text-align: left;
+  color: #a2a2a2;
+}
+
+.subTotal{
+ font-family: Lato;
+ font-size: 15px;
+ text-align: left;
+ color: #000000;
+}
+.orderAttendee{
+
+  font-family: BodoniSvtyTwoITCTT;
+  font-size: 20px;
+  text-align: left;
+  color: #424242;
+}
+
+tr.quantity1 td{
+  font-family: Lato;
+  font-size: 15px;
+  text-align: left;
+  color: #a2a2a2;
+  border-top: initial !important;
+}
+a.linkemail {
+
+  font-family: Lato;
+  font-size: 15px;
+  text-align: left;
+  color: #a2a2a2;
+}
+
+.order_header .massive-icon {
+  display: block;
+  width: 120px;
+  height: 120px;
+  font-size: 100px;
+  margin: 0 auto;
+  color: #63C05E;
+}
+.attendesslist{
+
+ border: dotted 1px #979797;
+}
+.subTotal{
+ font-family: BodoniSvtyTwoITCTT;
+ font-size: 20px !important;
+ text-align: left;
+ color: #424242;
+}
+.table>tbody>tr.quantity>td{
+
+  border-top: 1px dotted #979797 !important;
+}
+table.table.mb0.table-condensed tr:first-child td {
+    border-top: 0px dotted #979797 !important;
+}
